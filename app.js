@@ -3,8 +3,8 @@ const express = require('express');
 const app = express();
 
 
-const access_token = 'EAAMUWhP2PyQBAIlMOE13ZA1ktRB5XRQ82uy4hUSCTGA14IWUr7j9ZCMQDjRiDZBty3ZBCh9jqbOSUj4wJ1XDhjasR3XYgZCgkCsnEJOuCKHdUYHMg8WZBFsMdZCYCsPQ7yZCLJZBpvquIv19gGH30ttM2EyubzZAFZA6ygRxdOHhBoi4HpKdeCBwW9zW9Spp47B058Hwe70HRhhAQZDZD';
-const page_id = '1979217112364072'; 
+const access_token = 'EAAMUxxxxxx';
+const page_id = '197xxxxxx'; 
 let message = 'Test 3';
 let image = 'https://pics.filmaffinity.com/Hello_World-314069290-large.jpg';
 
